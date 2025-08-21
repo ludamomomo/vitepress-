@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "highlight.js": "^11.11.1",
+    "vue": "^3.5.19",
+    "wry-ui": "^1.0.5"
+  }
+}
